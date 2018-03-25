@@ -122,3 +122,9 @@ STYLE GUIDE:
 
 ***
 
+# Just Aaron
+### Whether pitching your start up's idea, or yourself for a new job - practice on strangers and get immediate, brutally honest feedback
+* **Teammates**: Aaron Pietsch (@aj-4)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/aj-4/elevator)
+* Project Name: Elevator
